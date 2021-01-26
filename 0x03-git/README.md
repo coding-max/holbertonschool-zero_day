@@ -1,2 +1,2 @@
-Basic commands for GIT
+Basic commands for GIT. 
 updated.
